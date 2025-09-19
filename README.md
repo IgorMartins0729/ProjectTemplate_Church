@@ -9,6 +9,21 @@
 
 ---
 
+## 📸 Pré-visualização
+<p align="center"> <img src="https://via.placeholder.com/900x420.png?text=Preview+do+Template" alt="Preview do template" /> </p>
+
+---
+
+## 🎨 Personalização — destaque
+
+Edite textos e imagens em src (componentes/pages).
+
+Estilos: altere o App.css ou adicione novos arquivos .css.
+
+Novas páginas: crie componentes React e registre nas rotas do React Router.
+
+---
+
 ## ✏️ Sobre o Projeto
 
 <p align="center"><strong style="font-size:110%">Um <em>template moderno, responsivo e personalizável</em> para sites de igrejas, construído com <strong>React</strong>.</strong></p>
@@ -88,13 +103,3 @@ http://localhost:5173
 ```bash
 git config --global core.autocrlf true
 
-🎨 Personalização — destaque
-
-Edite textos e imagens em src (componentes/pages).
-
-Estilos: altere o App.css ou adicione novos arquivos .css.
-
-Novas páginas: crie componentes React e registre nas rotas do React Router.
-
-📸 Pré-visualização
-<p align="center"> <img src="https://via.placeholder.com/900x420.png?text=Preview+do+Template" alt="Preview do template" /> </p>

@@ -2,8 +2,11 @@
 
 📌 Desenvolvido por Igor Martins
 
+<p align="center"> <img src="https://img.shields.io/badge/React-18.2.0-blue?logo=react" /> <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" /> <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite" /> </p>
+✏️ Sobre o Projeto
+
 Um template moderno, responsivo e personalizável para sites de igrejas, construído com React.
-Este projeto foi desenvolvido para facilitar a criação de páginas que transmitam a identidade e a mensagem da igreja de forma clara e acolhedora.
+O objetivo é facilitar a criação de páginas que transmitam a identidade e a mensagem da igreja de forma clara e acolhedora.
 
 🚀 Tecnologias Utilizadas
 
@@ -11,49 +14,39 @@ Este projeto foi desenvolvido para facilitar a criação de páginas que transmi
 
 🎨 CSS Puro – estilização
 
-🛠️ Vite – build e ambiente de desenvolvimento rápido
+⚡ Vite – build rápido e leve
 
-📦 React Router – navegação entre páginas
+🛤️ React Router – navegação entre páginas
 
 🖥️ Funcionalidades
 
-✅ Página inicial com banner e chamada principal
-✅ Seção "Sobre a Igreja"
-✅ Página de eventos/programações
-✅ Página de contato com formulário integrado
-✅ Responsividade para celular, tablet e desktop
-✅ Estrutura fácil de personalizar
+✔️ Página inicial com banner e chamada principal
+✔️ Seção Sobre a Igreja
+✔️ Página de Eventos e Programações
+✔️ Página de Contato com formulário
+✔️ Responsivo (celular, tablet e desktop)
+✔️ Estrutura fácil de personalizar
 
-⚡ Como Executar o Projeto
-
-Clone o repositório
-
+⚡ Como Rodar Localmente
+# Clone o repositório
 git clone https://github.com/seuusuario/igreja-template.git
 
-
-Acesse a pasta do projeto
-
+# Acesse a pasta do projeto
 cd igreja-template
 
-
-Instale as dependências
-
+# Instale as dependências
 npm install
 
-
-Execute o projeto em modo desenvolvimento
-
+# Rode em modo desenvolvimento
 npm run dev
 
 
-Abra no navegador
-
-http://localhost:5173
+🔗 Abra no navegador: http://localhost:5173
 
 🎨 Personalização
 
-Substitua textos e imagens dentro da pasta src conforme a necessidade da sua igreja.
+✍️ Edite textos e imagens em src
 
-Edite os estilos no arquivo .css principal ou crie novos arquivos de estilo para páginas/componentes específicos.
+🎨 Ajuste estilos no App.css ou crie novos arquivos .css
 
-Para adicionar novas páginas, crie novos componentes React e registre-os nas rotas.
+➕ Para novas páginas, crie componentes React e registre no React Router
